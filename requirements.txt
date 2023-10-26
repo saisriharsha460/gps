@@ -5,6 +5,5 @@ geopy
 folium
 shapely
 geopandas
-math
 streamlit_folium
-pip
+openpyxl
